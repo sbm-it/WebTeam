@@ -18,7 +18,7 @@ To ensure the tracking and documentation of changes, and the integrity and reten
 
 ### Do
 - Create a seperate private repository for each project
-- Document each repository with a "readme.md."  Readme.md should contain Name, Short Description, User Contact Name, Dev URL, Production URL at the very least.  See or copy [Sample](sampleREADME.md).
+- Document each repository with a "README.md."  README.md should contain Project Name, Description, Customer Contact, Development URL, Production URL, Author at the very least.  See or copy [Sample](sampleREADME.md).
 - Use useful commit messages
 
 ### Don't
