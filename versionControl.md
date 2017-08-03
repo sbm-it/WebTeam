@@ -10,24 +10,24 @@ To ensure the tracking and documentation of changes, and the integrity and reten
 - Any Git client to interact with GitHub (i.e. SourceTree, GitHub Desktop, etc.).
 
 ### What
-All code written and/or maintained by the team.  To include any language (ASP, JavaScript, Cold Fusion, etc.), scripts, design templates (CSS, Drupal stuff).
+- All code written and/or maintained by the team.  To include any language (ASP, JavaScript, Cold Fusion, etc.), scripts, design templates (CSS, Drupal stuff).
 
 ### When
-Commit early and often
-Active projects should be committed at the very least at the end of the day
+- Commit early and often
+- Active projects should be committed at the very least at the end of the day
 
 ### Do
-Create a seperate private repository for each project
-Use useful commit messages
+- Create a seperate private repository for each project
+- Use useful commit messages
 
 ### Don't
-Push any sensitive (HIPAA, FERPA ,etc) data to Github
-Store passwords (use .gitignore files to make this process easier)
-Not use GitHub
+- Push any sensitive (HIPAA, FERPA ,etc) data to Github
+- Store passwords (use .gitignore files to make this process easier)
+- Not use GitHub
 
 ### Training and Cheats
-[Online Training](https://services.github.com/on-demand/)
-[Videos](https://www.youtube.com/user/GitHubGuides)
-[Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Online Training](https://services.github.com/on-demand/)
+- [Videos](https://www.youtube.com/user/GitHubGuides)
+- [Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
