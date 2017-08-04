@@ -31,4 +31,4 @@ To ensure the tracking and documentation of changes, and the integrity and reten
 - [Videos](https://www.youtube.com/user/GitHubGuides)
 - [Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-
+<b>Note:</b> if you do not already have a GitHub account, create one to be invited to the organizational account.
