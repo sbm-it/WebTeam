@@ -1,4 +1,4 @@
-# WebTeam-Documentation
+# WebTeam Information
 
 
 ## [Status Reports](statusReports.md)
